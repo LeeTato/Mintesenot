@@ -1,2 +1,2 @@
 # Mintesenot
-# This project is for test1
+This project is for test1
